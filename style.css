@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(56, 56, 56);
+}
+
+i.fa-circle-check {
+    color: green;
+}
+
+i.fa-circle-xmark {
+    color: red;
+}
